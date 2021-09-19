@@ -14,6 +14,7 @@
 		385C58C626F6580B0095A463 /* BrainBoost.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 385C58C426F6580B0095A463 /* BrainBoost.xcdatamodeld */; };
 		385C58C826F6580D0095A463 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 385C58C726F6580D0095A463 /* Assets.xcassets */; };
 		385C58CB26F6580D0095A463 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 385C58C926F6580D0095A463 /* LaunchScreen.storyboard */; };
+		385C58D526F6986B0095A463 /* BoostViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 385C58D426F6986B0095A463 /* BoostViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		385C58C726F6580D0095A463 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		385C58CA26F6580D0095A463 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		385C58CC26F6580D0095A463 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		385C58D426F6986B0095A463 /* BoostViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoostViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				385C58BB26F6580B0095A463 /* AppDelegate.swift */,
 				385C58BD26F6580B0095A463 /* SceneDelegate.swift */,
 				385C58BF26F6580B0095A463 /* ViewController.swift */,
+				385C58D426F6986B0095A463 /* BoostViewController.swift */,
 				385C58C126F6580B0095A463 /* Main.storyboard */,
 				385C58C726F6580D0095A463 /* Assets.xcassets */,
 				385C58C926F6580D0095A463 /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 				385C58C026F6580B0095A463 /* ViewController.swift in Sources */,
 				385C58BC26F6580B0095A463 /* AppDelegate.swift in Sources */,
 				385C58C626F6580B0095A463 /* BrainBoost.xcdatamodeld in Sources */,
+				385C58D526F6986B0095A463 /* BoostViewController.swift in Sources */,
 				385C58BE26F6580B0095A463 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
